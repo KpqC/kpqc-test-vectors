@@ -1,7 +1,6 @@
 # KpqC Test Vectors
 
-Known-answer test (KAT) vectors for AIMer, HAETAE, NTRU+, and SMAUG-T, organized
-under a common layout for use across KpqC implementations.
+Known-answer test (KAT) vectors shared across KpqC implementations.
 
 ## Available vectors
 
